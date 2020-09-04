@@ -1,1 +1,1 @@
-# gameLife
+//Main is in the LifeWindow
